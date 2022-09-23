@@ -19,7 +19,7 @@ button {
 }
 
 button:hover {
-  cursor: url('/app/cursor.cur'), auto;
+  cursor: url('app/cursor.cur'), auto;
   background: #B1BCE6;
   color: #9A86A4;
 }
@@ -56,12 +56,12 @@ p {
   line-height: 30px;
   letter-spacing: 5px;
   margin-top: 40px;
-  margin-left: 700px;
+  margin-left: 750px;
   padding: 10px;
 }
 ol {
   width: 700px;
-  margin-left: 900px;
+  margin-left: 1000px;
   margin-top: 20px;
   font-size: 2.0em;
   font-family: 'Allura', cursive;
@@ -86,7 +86,7 @@ li {
 
 h5 {
   position: absolute;
-  margin-left: 680px;
+  margin-left: 790px;
   margin-top: 360px;
   font-size: 2em;
   font-weight: lighter;
