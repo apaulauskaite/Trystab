@@ -24,9 +24,9 @@ var icon=document.getElementById("icons");
 icon.onclick=function(){
     if(mySong.paused){
         mySong.play();
-        icon.src="/app/brk.png";
+        icon.src="app/brk.png";
     } else{
         mySong.pause();
-        icon.src="/app/click.png";
+        icon.src="app/click.png";
     }
 }
